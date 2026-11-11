@@ -5,6 +5,8 @@
 
 ## Зависимости
 
+Общий список приложений и назначение утилит — в [README](../README.md#зависимости).
+
 Для полной функциональности: `zsh`, `git`, `micro`, `eza`, `bat`, `fd`, `fzf`,
 `zoxide`, `starship`, `lf`, `openssh`. Для значков Starship нужен Nerd Font в терминале.
 На Debian/Ubuntu поддерживаются также имена `batcat` и `fdfind` без создания symlink.

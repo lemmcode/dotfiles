@@ -1,0 +1,6 @@
+command = zsh
+shell-integration = zsh
+font-size = 10
+custom-shader-animation = always
+custom-shader = ~/.config/ghostty/shaders/starfield.glsl
+theme = Ayu

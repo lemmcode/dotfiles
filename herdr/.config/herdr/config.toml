@@ -1,0 +1,15 @@
+onboarding = false
+
+[ui]
+show_agent_labels_on_pane_borders = true
+agent_panel_sort = "spaces"
+
+[ui.toast]
+delivery = "herdr"
+
+[keys]
+prefix = "ctrl+a"
+
+[theme]
+name = "catppuccin"
+auto_switch = false

@@ -1,0 +1,14 @@
+# Локальные настройки и состояние приложений
+local.zsh
+*.zwc
+.zcompdump*
+**/session.json
+**/session-snapshots/
+**/plugins.json
+*.log
+**/.plugins.lock
+**/release-notes.json
+
+# Локальное состояние micro и lf
+micro/.config/micro/buffers/
+micro/.config/micro/backups/
